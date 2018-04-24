@@ -1,6 +1,6 @@
 # Job Interview as Data Scientist
 ## Subject:
-- [IMD0033-Probabilidade](https://sigaa.ufrn.br/sigaa/graduacao/componente/view_painel.jsf)
+- [IMD0033-Probabilidade](https://sigaa.ufrn.br/sigaa/public/curso/resumo_curriculo.jsf)
 - Professor: [Ivanovitch Silva](https://github.com/ivanovitchm)
 ## Aluno
 
@@ -14,4 +14,4 @@ As a graduating student on Bachelor of Information Technology at [UFRN](http://w
 
 ## Result
 Finally, in the end I were able to make several observations and deductions, just from the informations provided to me via dataset. These same deductions, which lead me to ponder more about 'MegaSena' and the benefits to  the involved ones. And also, how incredibly rare it is to get right all 6 numbers! Hahaha.
-
+Also used graphics aiming for a better visualization on the problem's perspective.
